@@ -1,19 +1,21 @@
-#title
+# Title
 Radiomics
 
-#author
+# Author
 Isabella
 
-#intro
+# Intro
 radiomics is extracting features from images.
 
-#methods
+# Methods
 methods to do it 
 
 
-#results
+# Results
 We observed particle growth through coagulation and report the changing chemical composition with age in the atmosphere.
 
-#conclusion
+# Conclusion
 We made some groundbreaking discovery. There's more to do need more funding.
 
+# Figures
+Figures go here.
