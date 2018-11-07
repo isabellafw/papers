@@ -19,3 +19,6 @@ We made some groundbreaking discovery. There's more to do need more funding.
 
 # Figures
 Figures go here.
+
+# Acknowledgements
+We would like to thanks the EU funding body for their support. RIP :( ?
