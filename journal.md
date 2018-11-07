@@ -2,6 +2,7 @@
 Radiomics
 
 # Author
+John Smith
 Isabella
 
 # Abstract
