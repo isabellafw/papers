@@ -6,4 +6,8 @@ Isabella
 
 #intro
 
-radiomics is extracting features from images
+radiomics is extracting features from images.
+
+#methods
+
+methods to do it 
