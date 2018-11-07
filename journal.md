@@ -2,7 +2,8 @@
 Radiomics
 
 # Author
-Isabella
+Isabella, University of Manchester
+John Smith, University of Aberdeen
 
 # Abstract
 We write this last cause its difficult to do. This is where we summarize our results so lazy people do not have to read the whole thing but can still reference it.
